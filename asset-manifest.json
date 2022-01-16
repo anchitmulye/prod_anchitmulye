@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prod_anchitmulye/static/css/main.3b0519c1.css",
+    "main.js": "/prod_anchitmulye/static/js/main.be487368.js",
+    "static/js/787.3fcb660b.chunk.js": "/prod_anchitmulye/static/js/787.3fcb660b.chunk.js",
+    "index.html": "/prod_anchitmulye/index.html",
+    "main.3b0519c1.css.map": "/prod_anchitmulye/static/css/main.3b0519c1.css.map",
+    "main.be487368.js.map": "/prod_anchitmulye/static/js/main.be487368.js.map",
+    "787.3fcb660b.chunk.js.map": "/prod_anchitmulye/static/js/787.3fcb660b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0519c1.css",
+    "static/js/main.be487368.js"
+  ]
+}
