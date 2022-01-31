@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/prod_anchitmulye/static/css/main.6b4377cd.css",
-    "main.js": "/prod_anchitmulye/static/js/main.45e523de.js",
+    "main.css": "/prod_anchitmulye/static/css/main.335e7b58.css",
+    "main.js": "/prod_anchitmulye/static/js/main.9497c2f3.js",
     "static/js/787.3fcb660b.chunk.js": "/prod_anchitmulye/static/js/787.3fcb660b.chunk.js",
+    "static/media/home.jpg": "/prod_anchitmulye/static/media/home.fbd76167fab1158dd4ac.jpg",
+    "static/media/paper.jpeg": "/prod_anchitmulye/static/media/paper.d0e83705997d3b39aaf8.jpeg",
     "index.html": "/prod_anchitmulye/index.html",
-    "main.6b4377cd.css.map": "/prod_anchitmulye/static/css/main.6b4377cd.css.map",
-    "main.45e523de.js.map": "/prod_anchitmulye/static/js/main.45e523de.js.map",
+    "main.335e7b58.css.map": "/prod_anchitmulye/static/css/main.335e7b58.css.map",
+    "main.9497c2f3.js.map": "/prod_anchitmulye/static/js/main.9497c2f3.js.map",
     "787.3fcb660b.chunk.js.map": "/prod_anchitmulye/static/js/787.3fcb660b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b4377cd.css",
-    "static/js/main.45e523de.js"
+    "static/css/main.335e7b58.css",
+    "static/js/main.9497c2f3.js"
   ]
 }
